@@ -671,6 +671,73 @@ const locales = {
             "clear": "ลบการจัดข้อความ"
         }
     },
+    "pt-br": {
+        "cCode": "pt-br",
+        "language": "Português Brasileiro",
+        "text": {
+            "channelNameLabel": "Chat",
+            "scrollCheck": "Ativar animação de rolagem automática",
+            "fileSent": "Envie algum(s) arquivo(s)",
+            "attachmentTxt": "Anexos",
+            "privateMessages": "DM",
+            "userId": "ID de Usuário"
+        },
+        "buttons": {
+            "clearLastMessages": "Limpar as ultimas mensagens",
+            "editToken": "Editar o token",
+            "refreshChat": "Recarregar o chat",
+            "changeLanguage": "Escolher o idioma",
+            "send": "Enviar",
+            "leave": "Sair do servidor",
+            "invite": "Convidar"
+        },
+        "infos": {
+            "owner": "Dono",
+            "members": "Membros",
+            "vChannels": "Canais (voz)",
+            "tChannels": "Canais (texto)",
+            "roles": "Cargos",
+            "channels": "Canais",
+            "emojis": "Emojis"
+        },
+        "headings": {
+            "lastMessages": "Ultima mensagem",
+            "guildName": "Informação",
+            "autoScroll": "Rolagem altomática",
+        },
+        "errors": {
+            "error": "ERRO",
+            "dm": "ERRO : DM",
+            "emptyMsg": "ERRO : MENSAGEM VAZIA",
+            "missingPermissions": "ERROR : SEM PERMISSÕES"
+        },
+        "token": {
+            "prompt": "Por favor, insira seu token do bot do discord!",
+            "confirmation": "Você confirma?",
+            "invalid": "Nenhum token fornecido ou token inválido"
+        },
+        "messageType": {
+            "serverJoin": "Entrou no servidor",
+            "pin": "Fixou uma mensagem",
+            "channelNews": "Adicionado um canal de avisos remotos",
+            "boost": "Impulsionou o servidor"
+        },
+        "fileType": {
+            "unknown": "desconhecido",
+            "img": "imagem",
+            "doc": "documento",
+            "pdf": "pdf",
+            "video": "vídeo",
+            "audio": "áudio"
+        },
+        "formatting": {
+            "bold": "Negrito",
+            "emphasis": "Ênfase",
+            "underline": "Sublinhado",
+            "strike": "Riscado",
+            "clear": "Limpar formatação"
+        }
+    },
     "it": {
         "cCode": "it",
         "language": "Italiano",
